@@ -1,0 +1,15 @@
+C:\Polina\C#\DetailPreparationMachine\obj\Debug\DetailPreparationMachine.csproj.AssemblyReference.cache
+C:\Polina\C#\DetailPreparationMachine\obj\Debug\MainWindow.g.cs
+C:\Polina\C#\DetailPreparationMachine\obj\Debug\App.g.cs
+C:\Polina\C#\DetailPreparationMachine\obj\Debug\DetailPreparationMachine_MarkupCompile.cache
+C:\Polina\C#\DetailPreparationMachine\obj\Debug\DetailPreparationMachine_MarkupCompile.lref
+C:\Polina\C#\DetailPreparationMachine\bin\Debug\DetailPreparationMachine.exe.config
+C:\Polina\C#\DetailPreparationMachine\bin\Debug\DetailPreparationMachine.exe
+C:\Polina\C#\DetailPreparationMachine\bin\Debug\DetailPreparationMachine.pdb
+C:\Polina\C#\DetailPreparationMachine\obj\Debug\MainWindow.baml
+C:\Polina\C#\DetailPreparationMachine\obj\Debug\DetailPreparationMachine.g.resources
+C:\Polina\C#\DetailPreparationMachine\obj\Debug\DetailPreparationMachine.Properties.Resources.resources
+C:\Polina\C#\DetailPreparationMachine\obj\Debug\DetailPreparationMachine.csproj.GenerateResource.cache
+C:\Polina\C#\DetailPreparationMachine\obj\Debug\DetailPreparationMachine.csproj.CoreCompileInputs.cache
+C:\Polina\C#\DetailPreparationMachine\obj\Debug\DetailPreparationMachine.exe
+C:\Polina\C#\DetailPreparationMachine\obj\Debug\DetailPreparationMachine.pdb
